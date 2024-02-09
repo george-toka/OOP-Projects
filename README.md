@@ -8,4 +8,4 @@ The learning process is as follows:<br>
 * Structs & Functions
 * Classes - Constructor/Destructor/Setters/Getters
 * Inheritance & Friend Functions
-* Polymorphsism 
+* Polymorphism 
